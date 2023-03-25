@@ -1,1 +1,1 @@
-This is a simple recipe page made using html.
+Doing Odin Project lessons
